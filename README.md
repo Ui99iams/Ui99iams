@@ -1,6 +1,7 @@
 ## Welcome to my github! Here i put my projects so that anyone can look, study, improve and etc.
 
 A todos os amantes da tech arte, estamos estudando.
+To all tech art lovers, we are studying.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="UI-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
